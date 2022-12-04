@@ -1,0 +1,21 @@
+#consue,#staple,#share{
+background-color: #FFF1ED;
+}
+
+#staple{
+    position: absolute;
+    top:180px;
+    left:0;
+    right:0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#share{
+    position: absolute;
+    top:40px;
+    left:0;
+    right:0px;
+    margin-left: auto;
+    /* // margin-right: auto; */
+}

@@ -1,0 +1,9 @@
+.border-check {
+  border-width: 2px;
+  border-color: black;
+}
+
+.cus-overlap {
+  position: relative;
+  margin-top: -145px;
+}

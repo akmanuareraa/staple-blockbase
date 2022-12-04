@@ -1,0 +1,16 @@
+.conn-icons{
+    i{
+        font-size: 20px;
+    }
+}
+
+.foot-lists{
+    ul{
+        li{
+            color: #777777;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            font-size: 14px;
+        }
+    }
+}
